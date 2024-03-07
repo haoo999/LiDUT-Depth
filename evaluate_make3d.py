@@ -9,7 +9,7 @@ from scipy import io
 import numpy as np
 
 load_weights_folder = './models/lidut-depth_640x192'
-main_path = '../make3d'
+main_path = '../../datasets/make3d'
 encoder_path = os.path.join(load_weights_folder, "encoder.pth")
 decoder_path = os.path.join(load_weights_folder, "depth.pth")
 encoder_dict = torch.load(encoder_path)
@@ -69,7 +69,7 @@ with torch.no_grad():
     for i in range(len(images)):
         input_color = images[i]
         input_color = cv2.resize(input_color / 255.0, (640, 192), interpolation=cv2.INTER_NEAREST)  # <----1
-        input_color = torch.tensor(input_color, dtype=torch.float).permute(2, 0, 1)[None, :, :, :]
+        input_color = torch.tensor(input_color, dtype=torch.float).permute(2, 0, 1)[None, :, :, :].cuda()
         output = depth_decoder(encoder(input_color))
         pred_disp, _ = disp_to_depth(output[("disp", 0)], 0.1, 100)  # <---2
         pred_disp = pred_disp.squeeze().cpu().numpy()
