@@ -8,7 +8,7 @@ import scipy.misc
 from scipy import io
 import numpy as np
 
-load_weights_folder = './tmp/lidut-depth_640x192'
+load_weights_folder = './models/lidut-depth_640x192'
 main_path = '../make3d'
 encoder_path = os.path.join(load_weights_folder, "encoder.pth")
 decoder_path = os.path.join(load_weights_folder, "depth.pth")
