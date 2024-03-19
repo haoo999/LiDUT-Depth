@@ -122,7 +122,7 @@ Or evaluate the weights of every epochs together (will print all the evaluate re
 python evaluate_depth_all.py --load_weights_folder path/to/your/model/folder --data_path path/to/kitti_data/ --num_epochs number/of/your/epochs/to/evaluate
 ```
 
-To evaluate the model's generalization ability, you'll need to prepare the Make3D dataset first. Download Test134 [images](http://www.cs.cornell.edu/~asaxena/learningdepth/Test134.tar.gz) and [depths](http://www.cs.cornell.edu/~asaxena/learningdepth/Test134Depth.tar.gz), simply uncompress them to ./splits/make3d, then run ./splits/make3d/make3d_extraction.py to get the image filenames, finally run ./evaluate_depth_make3d.py to get the generalization ability result (you may need to modify the data path in the code):
+To evaluate the model's generalization ability, you'll need to prepare the Make3D dataset first. Download Test134 [images](http://www.cs.cornell.edu/~asaxena/learningdepth/Test134.tar.gz) and [depths](http://www.cs.cornell.edu/~asaxena/learningdepth/Test134Depth.tar.gz), simply uncompress them to `./splits/make3d`, then run `./splits/make3d/make3d_extraction.py` to get the image filenames, finally run `./evaluate_depth_make3d.py` to get the generalization ability result (you may need to modify the data path in the code):
 ```shell
 python evaluate_depth_make3d.py
 ```
