@@ -4,6 +4,8 @@
 **LiDUT-Depth: A Lightweight Self-supervised Depth Estimation Model featuring Dynamic Upsampling and Triplet Loss Optimization**
   
   Hao Jiang
+
+  Donghua University
   
 <a href="#license">
   <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue.svg"/>
