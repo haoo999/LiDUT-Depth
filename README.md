@@ -116,6 +116,13 @@ KITTI-DATA/
 
 
 ## Evaluation
+To prepare the ground truth depth maps run:
+```shell
+python export_gt_depth.py --data_path kitti_data --split eigen
+python export_gt_depth.py --data_path kitti_data --split eigen_benchmark
+```
+...assuming that you have placed the KITTI dataset in the default location of `./kitti_data/`.
+
 Evaluate the weights of a single epoch:
 ```shell
 python evaluate_depth.py --load_weights_folder path/to/your/weights/folder --data_path path/to/kitti_data/
