@@ -1,12 +1,12 @@
 <div id="top" align="center">
-  
+
 # LiDUT-Depth 
 **A Lightweight Self-supervised Depth Estimation Model featuring Dynamic Upsampling and Triplet Loss Optimization**
   
-  [Hao Jiang](https://orcid.org/0009-0000-7962-6732)$^{[0009-0000-7962-6732]}$, [Xuan Shao](https://orcid.org/0000-0002-4096-9428)$^{[0000-0002-4096-9428]}$ 
+  [Hao Jiang](https://orcid.org/0009-0000-7962-6732)$^{[0009-0000-7962-6732]}$, [Zhijun Fang](https://orcid.org/0000-0001-8563-5678)$^{*[0000-0001-8563-5678]}$, [Xuan Shao](https://orcid.org/0000-0002-4096-9428)$^{[0000-0002-4096-9428]}$
   <br/>
-  and [Zhijun Fang](https://orcid.org/0000-0001-8563-5678)$^{*[0000-0001-8563-5678]}$
-
+  and [Xiaoyan Jiang](https://orcid.org/0000-0002-1946-576X)$^{[0000-0002-1946-576X]}$
+  <br/>
   Donghua University
   <br/>
   No.2999 North Renmin Road, Songjiang District, Shanghai
