@@ -3,13 +3,14 @@
 # LiDUT-Depth 
 **A Lightweight Self-supervised Depth Estimation Model featuring Dynamic Upsampling and Triplet Loss Optimization**
   
-  [Hao Jiang](https://orcid.org/0009-0000-7962-6732)$^{[0009-0000-7962-6732]}$, [Zhijun Fang](https://orcid.org/0000-0001-8563-5678)$^{*[0000-0001-8563-5678]}$, [Xuan Shao](https://orcid.org/0000-0002-4096-9428)$^{[0000-0002-4096-9428]}$
+  [Hao Jiang](https://orcid.org/0009-0000-7962-6732)$^{[0009-0000-7962-6732]^1}$, [Zhijun Fang](https://orcid.org/0000-0001-8563-5678)$^{*[0000-0001-8563-5678]^{1, 2}}$, [Xuan Shao](https://orcid.org/0000-0002-4096-9428)$^{[0000-0002-4096-9428]^1}$
   <br/>
-  and [Xiaoyan Jiang](https://orcid.org/0000-0002-1946-576X)$^{[0000-0002-1946-576X]}$
+  and [Xiaoyan Jiang](https://orcid.org/0000-0002-1946-576X)$^{[0000-0002-1946-576X]^2}$
   <br/>
-  Donghua University
+  $^1$ School of Computer Science and Technology, Donghua University, Shanghai, China
   <br/>
-  No.2999 North Renmin Road, Songjiang District, Shanghai
+  $^2$ School of Electronic and Electrical Engineering, Shanghai University of Engineering Science, Shanghai, China
+> This work was supported by National Natural Science Foundation of China (NSFC) Essential project (No. U2033218)
   
 <a href="#license">
   <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue.svg"/>
