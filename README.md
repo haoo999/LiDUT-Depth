@@ -11,7 +11,7 @@
   <br/>
   $^2$ School of Electronic and Electrical Engineering, Shanghai University of Engineering Science, Shanghai, China
 > This work was supported by National Natural Science Foundation of China (NSFC) Essential project (No. U2033218)
-> The paper was accepted by ICPR 2024 (27th International Conference on Pattern Recognition)
+> <br/>The paper was accepted by ICPR 2024 (27th International Conference on Pattern Recognition)
   
 <a href="#license">
   <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue.svg"/>
