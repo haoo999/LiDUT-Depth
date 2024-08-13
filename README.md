@@ -5,11 +5,13 @@
   
   [Hao Jiang](https://orcid.org/0009-0000-7962-6732)$^{[0009-0000-7962-6732]^1}$, [Zhijun Fang](https://orcid.org/0000-0001-8563-5678)$^{*[0000-0001-8563-5678]^{1, 2}}$, [Xuan Shao](https://orcid.org/0000-0002-4096-9428)$^{[0000-0002-4096-9428]^1}$
   <br/>
-  and [Xiaoyan Jiang](https://orcid.org/0000-0002-1946-576X)$^{[0000-0002-1946-576X]^2}$
+  [Xiaoyan Jiang](https://orcid.org/0000-0002-1946-576X)$^{[0000-0002-1946-576X]^2}$ and [Jenq-Neng Hwang](https://orcid.org/0000−0002−8877−2421)$^{[0000−0002−8877−2421]^3}$
   <br/>
   $^1$ School of Computer Science and Technology, Donghua University, Shanghai, China
   <br/>
   $^2$ School of Electronic and Electrical Engineering, Shanghai University of Engineering Science, Shanghai, China
+  <br/> 
+  $^3$ Department of Electrical & Computer Engineering, University of Washington, Washington D.C., United States
 > This work was supported by National Natural Science Foundation of China (NSFC) Essential project (No. U2033218)
 > <br/>The paper was accepted by ICPR 2024 (27th International Conference on Pattern Recognition)
   
