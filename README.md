@@ -13,7 +13,7 @@
   <br/> 
   $^3$ Department of Electrical & Computer Engineering, University of Washington, Washington D.C., United States
 > This work was supported in part by the Natural Science Foundation of China under Grant U2033218, in part by the Shanghai Sailing Program under Grant 23YF1400900, and in part by the Fundamental Research Funds for the Central Universities under Grants CF221223219597.
-> <br/>The paper was accepted by ICPR 2024 (27th International Conference on Pattern Recognition)
+> <br/> The paper was accepted by ICPR 2024 (27th International Conference on Pattern Recognition)
   
 <a href="#license">
   <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue.svg"/>
