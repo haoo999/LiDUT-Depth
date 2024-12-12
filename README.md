@@ -156,5 +156,20 @@ tensorboard --log_dir ./tmp/mytrain
 
 ## Citation
 ```shell
-# coming online soon
+@incollection{Jiang2024LiDUT,
+	booktitle = {Lecture Notes in Computer Science},
+	doi = {10.1007/978-3-031-78444-6_12},
+	isbn = {9783031784439},
+	issn = {0302-9743},
+	language = {en},
+	publisher = {Springer Nature Switzerland},
+	title = {LiDUT-Depth: A Lightweight Self-supervised Depth Estimation Model Featuring Dynamic Upsampling and Triplet Loss Optimization},
+	url = {http://dx.doi.org/10.1007/978-3-031-78444-6_12},
+	author = {Jiang, Hao and Fang, Zhijun and Shao, Xuan and Jiang, Xiaoyan and Hwang, Jenq-Neng},
+	pages = {176--189},
+	date = {2024-12-04},
+	year = {2024},
+	month = {12},
+	day = {4},
+}
 ```
