@@ -165,7 +165,7 @@ tensorboard --log_dir ./tmp/mytrain
 	publisher = {Springer Nature Switzerland},
 	title = {LiDUT-Depth: A Lightweight Self-supervised Depth Estimation Model Featuring Dynamic Upsampling and Triplet Loss Optimization},
 	url = {http://dx.doi.org/10.1007/978-3-031-78444-6_12},
-	author = {Jiang, Hao and Fang, Zhijun and Shao, Xuan and Jiang, Xiaoyan and Hwang, Jenq-Neng},
+	author = {Hao Jiang, and Zhijun Fang, and Xuan Shao, and Xiaoyan Jiang, and Jenq-Neng Hwang},
 	pages = {176--189},
 	date = {2024-12-04},
 	year = {2024},
